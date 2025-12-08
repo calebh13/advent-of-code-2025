@@ -6,3 +6,4 @@ Some highlights:
 - Day 2: part 1 uses some math tricks with powers of 10 and division to explicitly generate the IDs. Part 2 brute forces the more complicated IDs with a nice regex.
 - Day 3: nice solution, dynamic programming-esque. Part 2 is a generalization to arbitrary numbers of batteries which felt very natural.
 - Day 4: super simple 2D array searching.
+- Day 5: nice use of sorting/binary search to remove duplicates and reduce time complexity. First problem I was able to use "classic" CS algorithms on.
